@@ -1,3 +1,6 @@
+## NAME: KALPANAA BABU T M
+## REG NO: 212224230112
+
 # EXP 5: Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 
 ## Aim :
